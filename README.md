@@ -4,4 +4,4 @@ These are my condensed notes for some of the modules I have taken, and are inten
 
 My build settings:
 
-		pandoc -V geometry:margin=0.8in --mathjax -o output.pdf input.md --pdf-engine=xelatex
+	pandoc -V geometry:margin=0.8in --mathjax -o output.pdf input.md --pdf-engine=xelatex
